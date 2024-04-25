@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(to right, #5b09fe, #e827bb, #f32d2d); 
+}
+
+
+.task-item {
+    padding: 10px;
+    border-bottom: 1px solid #060606;
+    background-color: #e6e1e1;
+}
+
+.task-text {
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
